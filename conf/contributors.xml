@@ -836,7 +836,9 @@ Please keep the list in alphabetical order by last name!
  name="Bryan Gin-ge Chen"/>
 <contributor
  name="Hao Chen"
- trac="haochen_uw"/>
+ trac="haochen_uw"
+ github="haochenuw"
+ work="Meta Platforms, Inc."/>
 <contributor
  name="Wilson Cheung"
  work="sysadmin, UCSD"
